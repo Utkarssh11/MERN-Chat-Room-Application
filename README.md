@@ -30,23 +30,23 @@ Check out the live demo of Talk-A-Tive at [Demo Link](https://talk-a-tive.heroku
 Clone the project:
 
 bash
-git clone https://github.com/piyush-eon/mern-chat-app
+https://github.com/Utkarssh11/MERN-Chat-Room-Application/tree/main
 
 
-2. Go to the project directory:
+- Go to the project directory:
    cd mern-chat-app
 
-3.Install dependencies:
-npm install
+- Install dependencies:
+   npm install
 
 
-4.Start the server:
-npm run start
+- Start the server:
+   npm run start
 
 
-5.Start the client:
-cd frontend
-npm start
+- Start the client:
+  cd frontend
+  npm start
 
 
 ## Made by 
