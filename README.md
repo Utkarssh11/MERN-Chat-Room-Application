@@ -32,21 +32,43 @@ Clone the project:
 bash
 https://github.com/Utkarssh11/MERN-Chat-Room-Application/tree/main
 
+## Run Locally
 
-- Go to the project directory:
-   cd mern-chat-app
+Clone the project
 
-- Install dependencies:
-   npm install
+```bash
+  https://github.com/Utkarssh11/MERN-Chat-Room-Application/tree/main
+```
 
+Go to the project directory
 
-- Start the server:
-   npm run start
+```bash
+  cd mern-chat-app
+```
 
+Install dependencies
 
-- Start the client:
+```bash
+  npm install
+```
+
+```bash
+  cd frontend/
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start
+```
+Start the Client
+
+```bash
+  //open now terminal
   cd frontend
   npm start
+```
 
 
 ## Made by 
