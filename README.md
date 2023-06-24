@@ -71,9 +71,12 @@ Start the Client
 ```
 
 
-## Made by 
+## Contact 📧
 
-- Utkarsh Patidar 🌸
+For any inquiries or suggestions, please contact us at [LinkedIn](https://www.linkedin.com/in/utkarsh-patidar-800081221/).
 
 
+## License 📄
+
+This project is licensed under the [MIT License](LICENSE).
 
